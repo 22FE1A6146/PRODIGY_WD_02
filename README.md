@@ -30,6 +30,7 @@ Feel free to modify the code to add new features or improve the design. Here are
 * Add animations to the timer.
 
 ## Link of the Project
+Link : https://github.com/22FE1A6146/PRODIGY_WD_02
 
 
 ## Screenshot of Website
