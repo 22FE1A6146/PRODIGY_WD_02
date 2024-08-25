@@ -34,7 +34,6 @@ Link : https://github.com/22FE1A6146/PRODIGY_WD_02
 
 
 ## Screenshot of Website
-![Screenshot (7)](<img width="958" alt="output2" src="https://github.com/user-attachments/assets/6b6d758f-087b-419f-9d8b-8aecd9359912">)
+![Screenshot (7)]<img width="958" alt="output2" src="https://github.com/user-attachments/assets/6b6d758f-087b-419f-9d8b-8aecd9359912">
 
 
-![Screenshot (7)]()
